@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+opencv
+scipy
+scikit-learn
+scikit-image
+tensorflow
+tensorflow-gpu
+theano
+keras
+
